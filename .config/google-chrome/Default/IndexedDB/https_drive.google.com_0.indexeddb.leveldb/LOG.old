@@ -1,0 +1,32 @@
+2015/10/27-19:07:38.508 9789 Reusing MANIFEST /home/stefan/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2015/10/27-19:08:31.146 10328 Level-0 table #5: started
+2015/10/27-19:08:31.411 10328 Level-0 table #5: 10909568 bytes OK
+2015/10/27-19:08:31.499 10328 Delete type=0 #3
+2015/10/27-19:12:16.101 10328 Level-0 table #7: started
+2015/10/27-19:12:16.340 10328 Level-0 table #7: 10027673 bytes OK
+2015/10/27-19:12:16.388 10328 Delete type=0 #4
+2015/10/27-19:17:16.091 10328 Level-0 table #9: started
+2015/10/27-19:17:16.301 10328 Level-0 table #9: 10027662 bytes OK
+2015/10/27-19:17:16.352 10328 Delete type=0 #6
+2015/10/27-19:37:16.131 10328 Level-0 table #11: started
+2015/10/27-19:37:16.346 10328 Level-0 table #11: 10027630 bytes OK
+2015/10/27-19:37:16.384 10328 Delete type=0 #8
+2015/10/27-19:47:17.078 10328 Level-0 table #13: started
+2015/10/27-19:47:17.277 10328 Level-0 table #13: 10027662 bytes OK
+2015/10/27-19:47:17.319 10328 Delete type=0 #10
+2015/10/27-19:52:28.222 10328 Level-0 table #15: started
+2015/10/27-19:52:28.425 10328 Level-0 table #15: 10027640 bytes OK
+2015/10/27-19:52:28.493 10328 Delete type=0 #12
+2015/10/27-19:52:28.494 10328 Compacting 4@0 + 1@1 files
+2015/10/27-19:52:28.801 10328 Generated table #16: 3 keys, 10022394 bytes
+2015/10/27-19:52:28.843 10328 Generated table #17: 8 keys, 5386 bytes
+2015/10/27-19:52:28.843 10328 Compacted 4@0 + 1@1 files => 10027780 bytes
+2015/10/27-19:52:29.043 10328 compacted to: files[ 0 2 1 0 0 0 0 ]
+2015/10/27-19:52:29.044 10328 Delete type=2 #11
+2015/10/27-19:52:29.047 10328 Delete type=2 #9
+2015/10/27-19:52:29.050 10328 Delete type=2 #13
+2015/10/27-19:52:29.053 10328 Delete type=2 #15
+2015/10/27-19:52:29.056 10328 Delete type=2 #7
+2015/10/27-20:02:29.103 10328 Level-0 table #19: started
+2015/10/27-20:02:29.319 10328 Level-0 table #19: 10079296 bytes OK
+2015/10/27-20:02:29.368 10328 Delete type=0 #14

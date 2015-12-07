@@ -1,0 +1,497 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 1,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/stefan/Downloads/TGV/assets/css/theme.css",
+					"settings":
+					{
+						"buffer_size": 155404,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/stefan/Downloads/TGV/assets/js/theme.js",
+					"settings":
+					{
+						"buffer_size": 17989,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/stefan/Downloads/TGV/index.html",
+					"settings":
+					{
+						"buffer_size": 79463,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Bud\nNicht freigegeben\nTyp\nHTML\nSchriftgröße\n23 KB (23.048 Byte)\nBelegter Speicherplatz\n23 KB (23.048 Byte)\nSpeicherort\nTGV\nEigentümer\nIch\nGeändert am\n18:13 von mir\nGeöffnet am\n20:03 von mir\nErstellt am\n03.09.2015\nBeschreibung hinzufügen\nBetrachter am Herunterladen hindern\n\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <!--[if IE]><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><![endif]-->\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <title>TGV</title>\n\n    <!-- Favicon -->\n    <link rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"assets/ico/apple-touch-icon-144-precomposed.png\">\n    <link rel=\"shortcut icon\" href=\"assets/ico/favicon.ico\">\n\n    <!-- CSS Global -->\n    <link href=\"assets/plugins/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">\n    <link href=\"assets/plugins/bootstrap-select/css/bootstrap-select.min.css\" rel=\"stylesheet\">\n    <link href=\"assets/plugins/fontawesome/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <link href=\"assets/plugins/prettyphoto/css/prettyPhoto.css\" rel=\"stylesheet\">\n    <link href=\"assets/plugins/owl-carousel2/assets/owl.carousel.min.css\" rel=\"stylesheet\">\n    <link href=\"assets/plugins/owl-carousel2/assets/owl.theme.default.min.css\" rel=\"stylesheet\">\n    <link href=\"assets/plugins/animate/animate.min.css\" rel=\"stylesheet\">\n\n    <!-- Theme CSS -->\n    <link href=\"assets/css/theme.css\" rel=\"stylesheet\">\n   <!--<link href=\"assets/css/theme-green-1.css\" rel=\"stylesheet\" id=\"theme-config-link\">-->\n\n    <!-- Head Libs -->\n    <script src=\"assets/plugins/modernizr.custom.js\"></script>\n\n    <!--[if lt IE 9]>\n    <script src=\"assets/plugins/iesupport/html5shiv.js\"></script>\n    <script src=\"assets/plugins/iesupport/respond.min.js\"></script>\n    <![endif]-->\n</head>\n<body id=\"home\" class=\"boxed\">\n<!-- WRAPPER -->\n<div class=\"wrapper\">\n\n\n    <!-- Header top bar -->\n    <div class=\"top-bar\">\n        <div class=\"container\">\n            <div class=\"top-bar-left\">\n                <ul class=\"list-inline\">\n                    <li class=\"icon-user\"><a href=\"login.html\"><img src=\"assets/img/icon-1.png\" alt=\"\"/> <span>Login</span></a></li>\n                    <!--<li class=\"icon-form\"><a href=\"login.html\"><img src=\"assets/img/icon-2.png\" alt=\"\"/> <span>Not a Member? <span class=\"colored\">Sign Up</span></span></a></li>-->\n                    <li><a href=\"mailto:tgv-linz@tgv.at\"><i class=\"fa fa-envelope\"></i> <span>Kontaktieren Sie uns</span></a></li>\n                </ul>\n            </div>\n            <div class=\"top-bar-right\">\n                <ul class=\"list-inline\">\n                    <li class=\"hidden-xs\"><a href=\"aboutTGV.html\">Über die TGV</a></li>\n                    <li class=\"hidden-xs\"><a href=\"impressum.html\">Impressum</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n    <!-- /Header top bar -->\n\n    <!-- HEADER -->\n    <header class=\"header fixed\">\n        <div class=\"header-wrapper\">\n            <div class=\"container\">\n\n                <!-- Logo -->\n                <div class=\"logo\">\n                    <a href=\"index.html\"><img src=\"assets/img/logo-tgv.png\" alt=\"Bella Shop\"/></a>\n                </div>\n                <!-- /Logo -->\n\n                <!-- Header search -->\n                <div class=\"header-search\">\n                    <input class=\"form-control\" type=\"text\" placeholder=\"Nach was Suchen Sie?\"/>\n                    <button><i class=\"fa fa-search\"></i></button>\n                </div>\n                <!-- /Header search -->\n\n            </div>\n        </div>\n        <div class=\"navigation-wrapper\">\n            <div class=\"container\">\n                <!-- Navigation -->\n                <nav class=\"navigation closed clearfix\">\n                    <a href=\"#\" class=\"menu-toggle-close btn\"><i class=\"fa fa-times\"></i></a>\n                    <ul class=\"nav sf-menu\">\n                        <li class=\"active\"><a href=\"index.html\">Startseite</a>\n\n                        </li>\n                        <li><a href=\"index.html\">Unternehmen</a>\n                            <ul>\n                                <li><a href=\"aboutTGV.html\">Über die TGV</a></li>\n                                <li><a href=\"team-tgv.html\">Team</a></li>\n                            </ul>\n                        </li>\n                        <li><a href=\"category.html\">Produkte</a>\n                        </li>\n                        <li><a href=\"index.html\">Downloads</a>\n                        </li>\n                        <li><a href=\"index.html\">Händler</a>\n                        <ul>\n                                <li><a href=\"index.html\">Angebote</a></li>\n                                <li><a href=\"index.html\">Preislisten</a></li>\n                                <li><a href=\"index.html\">News</a></li>\n                            </ul>\n                        </li>\n                        <li><a href=\"category.html\">TGK</a>\n                        <ul>\n                                <li><a href=\"hotline-tgk.html\">Hotline</a></li>\n                                <li><a href=\"team-tgk.html\">Team</a></li>\n                                <li><a href=\"services.html\">Leistungen</a></li>\n                                <li><a href=\"contact-tgk.html\">Kontakt</a></li>\n                                <li><a href=\"partner.html\">Servicierte Marken</a></li>\n                            </ul></li>\n                        <li><a href=\"contact-tgv.html\">Kontakt</a></li>\n                    </ul>\n                </nav>\n                <!-- /Navigation -->\n            </div>\n        </div>\n    </header>\n    <!-- /HEADER -->\n\n    <!-- CONTENT AREA -->\n    <div class=\"content-area\">\n\n        \n\n        <!-- PAGE -->\n        <section class=\"page-section no-padding slider\">\n            <div class=\"container full-width\">\n\n                <div class=\"main-slider\">\n                    <div class=\"owl-carousel\" id=\"main-slider\">\n\n                        <!-- Slide 1 -->\n                        <div class=\"item slide1\">\n                            <img class=\"slide-img\" src=\"assets/img/preview/slider/slide1.jpg\" alt=\"\"/>\n                            <div class=\"caption\">\n                                <div class=\"container\">\n                                    <div class=\"div-table\">\n                                        <div class=\"div-cell\">\n                                            <div class=\"caption-content\">\n                                                <h2 class=\"caption-title\"></h2>\n                                                <h3 class=\"caption-subtitle\"></h3>\n                                                <p class=\"caption-text\">\n                                                    <a class=\"btn btn-theme\" href=\"#\">Schlagwort des Newsbeitrags</a>\n                                                </p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                        <!-- /Slide 1 -->\n\n                        <!-- Slide 2 -->\n                        <div class=\"item slide2 alt\">\n                            <img class=\"slide-img\" src=\"assets/img/preview/slider/slide-1.jpg\" alt=\"\"/>\n                            <div class=\"caption\">\n                                <div class=\"container\">\n                                    <div class=\"div-table\">\n                                        <div class=\"div-cell\">\n                                            <div class=\"caption-content\">\n                                                <h2 class=\"caption-title\">Titel</h2>\n                                                <h3 class=\"caption-subtitle\"><span>Summer Collection</span></h3>\n                                                <p class=\"caption-text\">\n                                                    <a class=\"btn btn-theme\" href=\"#\">Shop this item Now</a>\n                                                </p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                        <!-- /Slide 2 -->\n\n                        <!-- Slide 3 -->\n                        <div class=\"item slide3 dark\">\n                            <img class=\"slide-img\" src=\"assets/img/preview/slider/slide-3.jpg\" alt=\"\"/>\n                            <div class=\"caption\">\n                                <div class=\"container\">\n                                    <div class=\"div-table\">\n                                        <div class=\"div-cell\">\n                                            <div class=\"caption-content\">\n                                                <h2 class=\"caption-title\">TEst test</h2>\n                                                <h3 class=\"caption-subtitle\"><span>Noch mehr Test</span></h3>\n                                                <p class=\"caption-text\">\n                                                    <a class=\"btn btn-theme\" href=\"#\">Schlagwort des Newsbeitrags</a>\n                                                </p>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                        <!-- /Slide 3 -->\n\n                    </div>\n                </div>\n\n            </div>\n        </section>\n        <!-- /PAGE -->\n\n        \n\n        <!-- PAGE -->\n        <section class=\"page-section\">\n            <div class=\"container\" style=\"width:75%\">\n\n                <div class=\"tabs\">\n                    <ul id=\"tabs\" class=\"nav nav-justified-off\"><!--\n                        --><li class=\"\">Unsere meistverkauften</li>\n                    </ul>\n                </div>\n\n                <div class=\"tab-content\">\n\n                    <!-- tab 1 -->\n                    <div class=\"tab-pane fade active in\" id=\"tab-1\">\n                        <div class=\"row\">\n                            <div class=\"col-md-3 col-sm-6\">\n                                <div class=\"thumbnail no-border no-padding\">\n                                    <div class=\"media\">\n                                        <a class=\"media-link\" data-gal=\"prettyPhoto\" href=\"assets/img/1-1jpg\">\n                                            <img src=\"assets/img/1_1.jpg\" alt=\"\"/>\n                                            \n                                        </a>\n                                    </div>\n                                    <div class=\"caption text-center\">\n                                        <h4 class=\"caption-title\"><a href=\"product-details.html\">Produktname</a></h4> <!-- Link zum Produkt -->\n                                    </div>\n                                </div>\n                            </div>\n                            <div class=\"col-md-3 col-sm-6\">\n                                <div class=\"thumbnail no-border no-padding\">\n                                    <div class=\"media\">\n                                        <a class=\"media-link\" data-gal=\"prettyPhoto\" href=\"assets/img/preview/shop/product-1-big.jpg\">\n                                           <img src=\"assets/img/1_1.jpg\" alt=\"\"/>\n                                        </a>\n                                    </div>\n                                    <div class=\"caption text-center\">\n                                        <h4 class=\"caption-title\"><a href=\"product-details.html\">Produktname</a></h4>\n                                    </div>\n                                </div>\n                            </div>\n                            <div class=\"col-md-3 col-sm-6\">\n                                <div class=\"thumbnail no-border no-padding\">\n                                    <div class=\"media\">\n                                        <a class=\"media-link\" data-gal=\"prettyPhoto\" href=\"assets/img/preview/shop/product-1-big.jpg\">\n                                           <img src=\"assets/img/1_1.jpg\" alt=\"\"/>\n                                        </a>\n                                    </div>\n                                    <div class=\"caption text-center\">\n                                        <h4 class=\"caption-title\"><a href=\"product-details.html\">Produktname</a></h4>\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                            <div class=\"col-md-3 col-sm-6\">\n                                <div class=\"thumbnail no-border no-padding\">\n                                    <div class=\"media\">\n                                        <a class=\"media-link\" data-gal=\"prettyPhoto\" href=\"assets/img/preview/shop/product-1-big.jpg\">\n                                            <img src=\"assets/img/1_1.jpg\" alt=\"\"/>\n                                        </a>\n                                    </div>\n                                    <div class=\"caption text-center\">\n                                        <h4 class=\"caption-title\"><a href=\"product-details.html\">Produktname</a></h4>\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div> \n                </div>\n            </div>\n        </section>\n \n        <!-- PAGE -->\n        <section class=\"page-section\">\n            <div class=\"container\">\n                <h2 class=\"section-title\"><span>Marken und Partner</span></h2>\n                <div class=\"partners-carousel\">\n                    <div class=\"owl-carousel\" id=\"partners\">\n                        <div><a href=\"#\"><img src=\"assets/img/BAXI_LOGO.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/broetje.png\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/kleebauer.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                        <div><a href=\"#\"><img src=\"assets/img/preview/partners/brand-logo.jpg\" alt=\"\"/></a></div>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <!-- /PAGE -->\n\n        \n\n    </div>\n    <!-- /CONTENT AREA -->\n\n    <!-- FOOTER -->\n    <footer class=\"footer\">\n        <div class=\"footer-widgets\">\n            <div class=\"container\">\n                <div class=\"row\">\n\n                    <div class=\"col-md-3\">\n                        <div class=\"widget\">\n                            <h4 class=\"widget-title\">Über uns</h4>\n                            <p>Die TGV mit Sitz und Linz ist Vertriebspartner von BAXI und liefert ihnen die tollsten Geräte der Welt.</p>\n                        </div>\n                    </div>\n                    <div class=\"col-md-3\">\n                        <div class=\"widget\">\n                            <h4 class=\"widget-title\">News Letter</h4>\n                            <p>Bleiben Sie mit unserem Newsletter auf dem Laufenden über uns Aktionen und Angebote</p>\n                            <form action=\"#\">\n                                <div class=\"form-group\">\n                                    <input class=\"form-control\" type=\"text\" placeholder=\"Ihre Email Adresse\"/>\n                                </div>\n                                <div class=\"form-group\">\n                                    <button class=\"btn btn-theme btn-theme-transparent\">Anmelden</button>\n                                </div>\n                            </form>\n                        </div>\n                    </div>\n                    <div class=\"col-md-3\">\n                        <div class=\"widget widget-categories\">\n                            <h4 class=\"widget-title\">Informationen</h4>\n                            <ul>\n                                <li><a href=\"aboutTGV.html\">Über die TGV</a></li>\n                                <li><a href=\"hotline-tgk.html\">TGK Hotlines</a></li>\n                                <li><a href=\"contact-tgv.html\">Kontaktieren Sie uns</a></li>\n                                <li><a href=\"category.html\">Unsere Produkte</a></li>\n                            </ul>\n                        </div>\n                    </div>\n                    <div class=\"col-md-3\">\n                        <div class=\"widget widget-tag-cloud\">\n                            <h4 class=\"widget-title\">Schlagworte</h4>\n                            <ul>\n                                <li><a href=\"team-tgv.html\">TGV Team</a></li>\n                                <li><a href=\"team-tgk.html\">TGK Team</a></li>\n                                <li><a href=\"#\">BAXI Luna3 Blue+</a></li>\n                                <li><a href=\"#\">BAXI LUNA PLATINUM+</a></li>\n                                <li><a href=\"#\">BAXI LUNA DUO-TEC+</a></li>\n                                <li><a href=\"contact-tgv.html\">Kontaktieren Sie uns</a></li>\n                            </ul>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n        <div class=\"footer-meta\">\n            <div class=\"container\">\n                <div class=\"row\">\n\n                    <div class=\"col-sm-6\">\n                        <div class=\"copyright\">TGV Technische Geräte Vertrieb GmbH</div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </footer>\n    <!-- /FOOTER -->\n\n    <div id=\"to-top\" class=\"to-top\"><i class=\"fa fa-angle-up\"></i></div>\n\n</div>\n<!-- /WRAPPER -->\n\n<!-- JS Global -->\n<script src=\"assets/plugins/jquery/jquery-1.11.1.min.js\"></script>\n<script src=\"assets/plugins/bootstrap/js/bootstrap.min.js\"></script>\n<script src=\"assets/plugins/bootstrap-select/js/bootstrap-select.min.js\"></script>\n<script src=\"assets/plugins/superfish/js/superfish.min.js\"></script>\n<script src=\"assets/plugins/prettyphoto/js/jquery.prettyPhoto.js\"></script>\n<script src=\"assets/plugins/owl-carousel2/owl.carousel.min.js\"></script>\n<script src=\"assets/plugins/jquery.sticky.min.js\"></script>\n<script src=\"assets/plugins/jquery.easing.min.js\"></script>\n<script src=\"assets/plugins/jquery.smoothscroll.min.js\"></script>\n<script src=\"assets/plugins/smooth-scrollbar.min.js\"></script>\n\n<!-- JS Page Level -->\n<script src=\"assets/js/theme.js\"></script>\n\n<!--[if (gte IE 9)|!(IE)]><!-->\n<script src=\"assets/plugins/jquery.cookie.js\"></script>\n<!--<![endif]-->\n\n</body>\n</html>",
+					"file": "/home/stefan/tmp.txt",
+					"file_size": 19677,
+					"file_write_time": 1442772326000000,
+					"settings":
+					{
+						"buffer_size": 19623,
+						"line_ending": "Unix",
+						"name": "<div class=\"col-md-9 content\" id=\"content\">"
+					}
+				},
+				{
+					"contents": "0 = {HashMap$HashMapEntry@3848} \"profile.fileupload.choose.library\" -> \"Aus Galerie auswählen\"\n1 = {HashMap$HashMapEntry@3849} \"job.list.appliedOn\" -> \"Beworben %s\"\n2 = {HashMap$HashMapEntry@3850} \"profile.item.delete.confirmation.okay\" -> \"Ja, löschen\"\n3 = {HashMap$HashMapEntry@3851} \"onboarding.import.nope\" -> \"Profil manuell erstellen\"\n4 = {HashMap$HashMapEntry@3852} \"stream.search.close\" -> \"Schließen\"\n5 = {HashMap$HashMapEntry@3853} \"apply.finished.title\" -> \"Bewerbung versendet\"\n6 = {HashMap$HashMapEntry@3854} \"onboarding.finished.title\" -> \"Es kann losgehen!\"\n7 = {HashMap$HashMapEntry@3855} \"stream.search.title\" -> \"Schlagwortsuche\"\n8 = {HashMap$HashMapEntry@3856} \"stream.job.dismiss\" -> \"Ablehnen\"\n9 = {HashMap$HashMapEntry@3857} \"profile. jobHistory.empty.button\" -> \"Berufserfahrung hinzufügen\"\n10 = {HashMap$HashMapEntry@3858} \"onboarding.import.linkedin.error.title\" -> \"Es ist ein Fehler aufgetreten\"\n11 = {HashMap$HashMapEntry@3859} \"version\" -> \"1444326465\"\n12 = {HashMap$HashMapEntry@3860} \"onboarding.import.buttonXing\" -> \"Von XING importieren\"\n13 = {HashMap$HashMapEntry@3861} \"menu.discoverySettings\" -> \"SUCHEINSTELLUNGEN\"\n14 = {HashMap$HashMapEntry@3862} \"discoverySettings.title\" -> \"Sucheinstellungen\"\n15 = {HashMap$HashMapEntry@3863} \"account.password.new\" -> \"Neues Passwort\"\n16 = {HashMap$HashMapEntry@3864} \"apply.finished.text\" -> \"Sie finden die Stellenausschreibung, auf die Sie sich beworben haben, jetzt unter “Bewerbungen“. \\n\\nWenn der Arbeitgeber Sie näher kennenlernen möchte, wird er Sie per E-Mail kontaktieren (Es kann vorkommen, dass E-Mails gelegentlich im Spamfilter landen. Sehen Sie auch dort nach).\"\n17 = {HashMap$HashMapEntry@3865} \"profile.password.guideline.error.missingnumber\" -> \"Bitte wählen Sie ein Passwort, das mindestens eine Zahl enthält.\"\n18 = {HashMap$HashMapEntry@3866} \"job.single.openinbrowser\" -> \"Jobausschreibung im Browser öffnen\"\n19 = {HashMap$HashMapEntry@3867} \"onboarding.embed.location.description\" -> \"Wählen Sie die Orte, an denen Sie sich Ihren zukünftigen Arbeitsplatz vorstellen können.\"\n20 = {HashMap$HashMapEntry@3868} \"onboarding.embed.categories.title\" -> \"Tätigkeitsfelder\"\n21 = {HashMap$HashMapEntry@3869} \"onboarding.welcome.text3\" -> \"Nach links wischen, um einen Job abzulehnen, der Sie nicht interessiert\"\n22 = {HashMap$HashMapEntry@3870} \"menu.saved\" -> \"GESPEICHERT\"\n23 = {HashMap$HashMapEntry@3871} \"account.email.footer\" -> \"Wenn Sie Ihre E-Mail-Adresse ändern, erhalten Sie eine E-Mail, um diese zu bestätigen.\"\n24 = {HashMap$HashMapEntry@3872} \"menu.about\" -> \"ÜBER DIE APP\"\n25 = {HashMap$HashMapEntry@3873} \"apply.preview.next\" -> \"Senden\"\n26 = {HashMap$HashMapEntry@3874} \"start.button.register\" -> \"Account erstellen\"\n27 = {HashMap$HashMapEntry@3875} \"profile.password.guideline.error.missingletter\" -> \"Bitte wählen Sie ein Passwort, das mindestens einen Buchstaben enthält.\"\n28 = {HashMap$HashMapEntry@3876} \"onboarding.welcome.text4\" -> \"Nach rechts wischen, um einen interessanten Job für später zu speichern\"\n29 = {HashMap$HashMapEntry@3877} \"onboarding.import.xing.error.message\" -> \"Beim Versuch, Ihre Daten von XING zu importieren, ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal.\"\n30 = {HashMap$HashMapEntry@3878} \"profile.item.delete.confirmation.cancel\" -> \"Nein, abbrechen\"\n31 = {HashMap$HashMapEntry@3879} \"onboarding.finished.text1\" -> \"Entdecken Sie jetzt Jobangebote aller Otto Group Unternehmen, die zu Ihrem Profil passen. So funktioniert es:\"\n32 = {HashMap$HashMapEntry@3880} \"profile.missing.headline\" -> \"Fehlende Angaben\"\n33 = {HashMap$HashMapEntry@3881} \"login.password.placeholder\" -> \"Passwort\"\n34 = {HashMap$HashMapEntry@3882} \"apply.preview.text.attached\" -> \"Bewerberprofil:\"\n35 = {HashMap$HashMapEntry@3883} \"profile.password.guideline.error.title\" -> \"Passwortrichtlinie\"\n36 = {HashMap$HashMapEntry@3884} \"stream.search.example\" -> \"Beispiel: Projektmanager, IT, Hamburg\"\n37 = {HashMap$HashMapEntry@3885} \"profile.skills.empty.text\" -> \"Sie haben noch keine Qualifikationen hinzugefügt.\"\n38 = {HashMap$HashMapEntry@3886} \"profile.delete.confirmation.message\" -> \"Wenn Sie Ihren Account löschen, werden Ihre Daten unwiederbringlich gelöscht. Sie können diesen Schritt nicht rückgängig machen. Möchten Sie Ihren Account wirklich löschen?\"\n39 = {HashMap$HashMapEntry@3887} \"onboarding.push.nope\" -> \"Push-Mitteilungen jetzt nicht aktivieren\"\n40 = {HashMap$HashMapEntry@3888} \"job.dismissed.title\" -> \"Abgelehnte Jobs\"\n41 = {HashMap$HashMapEntry@3889} \"profile.fileupload.choose.cloud\" -> \"Aus iCloud auswählen\"\n42 = {HashMap$HashMapEntry@3890} \"onboarding.import.xing.success.message\" -> \"Ihre Daten wurden erfolgreich importiert\"\n43 = {HashMap$HashMapEntry@3891} \"onboarding.welcome.button\" -> \"Los geht's!\"\n44 = {HashMap$HashMapEntry@3892} \"joblist.dismissed.explanation\" -> \"Abgelehnte Jobs werden automatisch nach sieben Tagen gelöscht\"\n45 = {HashMap$HashMapEntry@3893} \"onboarding.import.xing.error.title\" -> \"Es ist ein Fehler aufgetreten\"\n46 = {HashMap$HashMapEntry@3894} \"job.share.twitter\" -> \"Ein spannendes Stellenangebot:\"\n47 = {HashMap$HashMapEntry@3895} \"onboarding.import.xing.success.title\" -> \"Erfolg\"\n48 = {HashMap$HashMapEntry@3896} \"profile.password.guideline.error.tooshort\" -> \"Das gewählte Passwort ist zu kurz. Bitte geben Sie ein Passwort mit mindestens 8 Zeichen an.\"\n49 = {HashMap$HashMapEntry@3897} \"onboarding.embed.location.empty\" -> \"Benutzen Sie das Suchfeld, um einen Ort hinzuzufügen oder ermitteln Sie ihren jetzigen Standort mit dem GPS-Button.\\r\\n\\r\\nWenn Sie keinen Ort angeben, werden Ihnen Stellenanzeigen aus aller Welt angezeigt.\"\n50 = {HashMap$HashMapEntry@3898} \"lang\" -> \"de\"\n51 = {HashMap$HashMapEntry@3899} \"job.single.location\" -> \"Standort\"\n52 = {HashMap$HashMapEntry@3900} \"job.single.openInMaps\" -> \"Karte öffnen\"\n53 = {HashMap$HashMapEntry@3901} \"forgotpassword.footer\" -> \"Geben Sie Ihre E-Mail-Adresse ein, um ein neues Passwort zu erhalten.\"\n54 = {HashMap$HashMapEntry@3902} \"menu.editProfile\" -> \"PROFIL BEARBEITEN\"\n55 = {HashMap$HashMapEntry@3903} \"general.navigation.close\" -> \"Schließen\"\n56 = {HashMap$HashMapEntry@3904} \"apply.preview.title\" -> \"Vorschau\"\n57 = {HashMap$HashMapEntry@3905} \"job.dismissed.empty.text\" -> \"Sobald Sie einen Job abgelehnt haben (indem Sie die Jobkarte nach links wischen), wird dieser hier auftauchen.\"\n58 = {HashMap$HashMapEntry@3906} \"onboarding.push.title\" -> \"Push-Mitteilungen\"\n59 = {HashMap$HashMapEntry@3907} \"start.button.login\" -> \"Einloggen\"\n60 = {HashMap$HashMapEntry@3908} \"profile.delete.done.title\" -> \"Account gelöscht\"\n61 = {HashMap$HashMapEntry@3909} \"profile.languages.empty.button\" -> \"Sprache hinzufügen\"\n62 = {HashMap$HashMapEntry@3910} \"stream.search.text\" -> \"Durchsuchen Sie unabhängig von Ihren Sucheinstellungen alle Stellenangebote der Otto Group. Geben Sie hier Ihren Suchbegriff ein (mehrere Suchbegriffe mit Komma getrennt):\"\n63 = {HashMap$HashMapEntry@3911} \"jobs.list.done\" -> \"Fertig\"\n64 = {HashMap$HashMapEntry@3912} \"profile.logout.confirmation.message\" -> \"Möchten Sie sich auf diesem Gerät ausloggen?\"\n65 = {HashMap$HashMapEntry@3913} \"profile.location.error.button\" -> \"OK\"\n66 = {HashMap$HashMapEntry@3914} \"profile.links.empty.button\" -> \"Links hinzufügen\"\n67 = {HashMap$HashMapEntry@3915} \"profile.delete.confirmation.okay\" -> \"Ja, Account löschen\"\n68 = {HashMap$HashMapEntry@3916} \"forgotpassword.error.title\" -> \"Fehler\"\n69 = {HashMap$HashMapEntry@3917} \"onboarding.import.buttonLinkedin\" -> \"Von LinkedIn importieren\"\n70 = {HashMap$HashMapEntry@3918} \"about.title\" -> \"Über die App\"\n71 = {HashMap$HashMapEntry@3919} \"job.saved.empty.text\" -> \"Sobald Sie einen Job gespeichert haben (indem Sie die Jobkarte nach rechts wischen), wird dieser hier auftauchen.\"\n72 = {HashMap$HashMapEntry@3920} \"profile.logout.confirmation.title\" -> \"Sind Sie sicher?\"\n73 = {HashMap$HashMapEntry@3921} \"apply.start.editprofile\" -> \"Profil bearbeiten\"\n74 = {HashMap$HashMapEntry@3922} \"profile.unreachable.headline\" -> \"Keine Verbindung\"\n75 = {HashMap$HashMapEntry@3923} \"login.password\" -> \"Passwort\"\n76 = {HashMap$HashMapEntry@3924} \"profile.header.importData\" -> \"Daten importieren\"\n77 = {HashMap$HashMapEntry@3925} \"login.email.placeholder\" -> \"E-Mail\"\n78 = {HashMap$HashMapEntry@3926} \"account.password.footer\" -> \"Ihr Passwort muss mindestens eine Ziffer, einen Buchstaben und ein Sonderzeichen enthalten und mindestens 8 Zeichen lang sein.\"\n79 = {HashMap$HashMapEntry@3927} \"onboarding.welcome.title\" -> \"Willkommen!\"\n80 = {HashMap$HashMapEntry@3928} \"import.warning.okay\" -> \"Okay\"\n81 = {HashMap$HashMapEntry@3929} \"general.error.appversion.download\" -> \"Jetzt aktualisieren\"\n82 = {HashMap$HashMapEntry@3930} \"jobs.list.edit\" -> \"Bearbeiten\"\n83 = {HashMap$HashMapEntry@3931} \"profile.verification.resend.title\" -> \"Erfolg\"\n84 = {HashMap$HashMapEntry@3932} \"onboarding.finished.button\" -> \"Jobs entdecken\"\n85 = {HashMap$HashMapEntry@3933} \"register.title\" -> \"Account erstellen\"\n86 = {HashMap$HashMapEntry@3934} \"profile.links.empty.text\" -> \"Sie haben noch keine Links hinzugefügt.\"\n87 = {HashMap$HashMapEntry@3935} \"profile.logout.confirmation.cancel\" -> \"Nein, abbrechen\"\n88 = {HashMap$HashMapEntry@3936} \"onboarding.import.linkedin.success.message\" -> \"Ihre Daten wurden erfolgreich importiert\"\n89 = {HashMap$HashMapEntry@3937} \"forgotpassword.success.okay\" -> \"OK\"\n90 = {HashMap$HashMapEntry@3938} \"accountSettings.title\" -> \"Accounteinstellungen\"\n91 = {HashMap$HashMapEntry@3939} \"onboarding.import.linkedin.error.message\" -> \"Beim Versuch, Ihre Daten von LinkedIn zu importieren, ist ein Fehler aufgetreten. Bitte versuchen Sie es noch einmal.\"\n92 = {HashMap$HashMapEntry@3940} \"onboarding.import.linkedin.error.button\" -> \"OK\"\n93 = {HashMap$HashMapEntry@3941} \"profile.jobHistory.empty.button\" -> \"Beruf hinzufügen\"\n94 = {HashMap$HashMapEntry@3942} \"stream.job.save\" -> \"Speichern\"\n95 = {HashMap$HashMapEntry@3943} \"job.saved.empty.button\" -> \"Jobs entdecken\"\n96 = {HashMap$HashMapEntry@3944} \"login.error.okay\" -> \"OK\"\n97 = {HashMap$HashMapEntry@3945} \"onboarding.push.button\" -> \"Push-Mitteilungen aktivieren\"\n98 = {HashMap$HashMapEntry@3946} \"stream.empty.button2\" -> \"Schlagwortsuche\"\n99 = {HashMap$HashMapEntry@3947} \"profile.fileupload.choose.cancel\" -> \"Abbrechen\"\n100 = {HashMap$HashMapEntry@4150} \"profile.delete.done.button\" -> \"OK\"\n101 = {HashMap$HashMapEntry@4151} \"menu.jobs\" -> \"JOBS\"\n102 = {HashMap$HashMapEntry@4152} \"profile.location.error.title\" -> \"Ihr Standort konnte nicht ermittelt werden.\"\n103 = {HashMap$HashMapEntry@4153} \"forgotpassword.error.button\" -> \"OK\"\n104 = {HashMap$HashMapEntry@4154} \"profile.unreachable.message\" -> \"Ohne Internetverbindung können Sie keine Änderungen an Ihrem Profil vornehmen.\"\n105 = {HashMap$HashMapEntry@4155} \"stream.search.headline\" -> \"Schlagwortsuche\"\n106 = {HashMap$HashMapEntry@4156} \"profile.skills.search\" -> \"Suchen\"\n107 = {HashMap$HashMapEntry@4157} \"onboarding.welcome.text6\" -> \"Bitte beantworten Sie ein paar Fragen, die uns dabei helfen, die Suche zu optimieren.\\n\\nJe detaillierte Ihre angegebenen Informationen sind, desto präziser können wir unsere Stellenangebote und Ihr Profil aufeinander abstimmen.\"\n108 = {HashMap$HashMapEntry@4158} \"register.error.message.empty\" -> \"Bitte füllen Sie alle Felder aus.\"\n109 = {HashMap$HashMapEntry@4159} \"profile.location.description\" -> \"Stadt, PLZ oder Land\"\n110 = {HashMap$HashMapEntry@4160} \"apply.preview.description\" -> \"Vorschau\"\n111 = {HashMap$HashMapEntry@4161} \"onboarding.import.xing.success.button\" -> \"OK, weiter!\"\n112 = {HashMap$HashMapEntry@4162} \"onboarding.embed.skills.title\" -> \"Qualifikationen\"\n113 = {HashMap$HashMapEntry@4163} \"register.next.button\" -> \"Registrieren\"\n114 = {HashMap$HashMapEntry@4164} \"job.share.facebook\" -> \"Ein spannendes Stellenangebot:\"\n115 = {HashMap$HashMapEntry@4165} \"login.email\" -> \"E-Mail\"\n116 = {HashMap$HashMapEntry@4166} \"job.offline.error.button\" -> \"OK\"\n117 = {HashMap$HashMapEntry@4167} \"profile.verification.resend.okay\" -> \"OK\"\n118 = {HashMap$HashMapEntry@4168} \"forgotpassword.next.button\" -> \"Abschicken\"\n119 = {HashMap$HashMapEntry@4169} \"profile.missing.message\" -> \"Folgende Felder müssen noch ausgefüllt werden:\"\n120 = {HashMap$HashMapEntry@4170} \"onboarding.embed.skills.description\" -> \"Wir wählen die angezeigten Jobs nach Ihren Qualifikationen aus. Markieren Sie passende Qualifikationen und heben Sie mit einem zweiten Tippen diejenigen hervor, die für Sie besonders relevant sind.\\nBasierend auf Ihrem XING/LinkedIn-Profil finden Sie unten einige Vorschläge, die Sie gerne ergänzen oder verändern können.\"\n121 = {HashMap$HashMapEntry@4171} \"import.warning.cancel\" -> \"Abbrechen\"\n122 = {HashMap$HashMapEntry@4172} \"forgotpassword.error.message.empty\" -> \"Bitte geben Sie Ihre E-Mail-Adresse an.\"\n123 = {HashMap$HashMapEntry@4173} \"profile.emailverification.message\" -> \"Damit Sie sich bewerben können, benötigen wir eine verifizierte E-Mail Adresse. Wenn Sie die Bestätigungsmail noch nicht erhalten haben, klicken Sie hier:  \"\n124 = {HashMap$HashMapEntry@4174} \"onboarding.embed.categories.description\" -> \"Wählen Sie die Tätigkeitsfelder, für die Sie sich interessieren.\"\n125 = {HashMap$HashMapEntry@4175} \"profile.delete.confirmation.cancel\" -> \"Abbrechen\"\n126 = {HashMap$HashMapEntry@4176} \"register.error.message.passwordsmatch\" -> \"Bitte achten Sie darauf, dass die Passwörter identisch sind.\"\n127 = {HashMap$HashMapEntry@4177} \"profile.password.guideline.error.button\" -> \"OK\"\n128 = {HashMap$HashMapEntry@4178} \"profile.documents.empty.text\" -> \"Sie haben noch keine Dokumente hinzugefügt.\"\n129 = {HashMap$HashMapEntry@4179} \"apply.start.close\" -> \"Schließen\"\n130 = {HashMap$HashMapEntry@4180} \"onboarding.embed.skills.description.noimport\" -> \"Wir wählen die angezeigten Jobs nach Ihren Qualifikationen aus. Markieren Sie passende Qualifikationen und heben Sie mit einem zweiten Tippen diejenigen hervor, die für Sie besonders relevant sind.\"\n131 = {HashMap$HashMapEntry@4181} \"profile.unreachable.retry\" -> \"Nochmal versuchen\"\n132 = {HashMap$HashMapEntry@4182} \"account.password.new2\" -> \"Passwort wiederholen\"\n133 = {HashMap$HashMapEntry@4183} \"menu.accountSettings\" -> \"ACCOUNT\"\n134 = {HashMap$HashMapEntry@4184} \"profile.item.delete.confirmation.message\" -> \"Wirklich löschen?\"\n135 = {HashMap$HashMapEntry@4185} \"apply.finished.headline\" -> \"Ihre Bewerbung wurde erfolgreich versendet!\"\n136 = {HashMap$HashMapEntry@4186} \"profile.emailverification.title\" -> \"Ihre E-Mail Adresse wurde noch nicht bestätigt.\"\n137 = {HashMap$HashMapEntry@4187} \"job.toolbar.apply\" -> \"Jetzt bewerben\"\n138 = {HashMap$HashMapEntry@4188} \"notificationSettings.email\" -> \"Benachrichtigung per E-Mail\"\n139 = {HashMap$HashMapEntry@4189} \"apply.finished.button.applied\" -> \"Zur „Bewerbungen“-Liste\"\n140 = {HashMap$HashMapEntry@4190} \"login.error.message.empty\" -> \"Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort an.\"\n141 = {HashMap$HashMapEntry@4191} \"job.dismissed.empty.button\" -> \"Jobs entdecken\"\n142 = {HashMap$HashMapEntry@4192} \"general.navigation.next\" -> \"Weiter\"\n143 = {HashMap$HashMapEntry@4193} \"onboarding.import.linkedin.success.button\" -> \"OK, weiter!\"\n144 = {HashMap$HashMapEntry@4194} \"stream.search.button\" -> \"Jobs entdecken\"\n145 = {HashMap$HashMapEntry@4195} \"register.terms\" -> \"Ich akzeptiere die _Nutzungsbedingungen_ und _Datenschutzvereinbarungen_\"\n146 = {HashMap$HashMapEntry@4196} \"profile.location.anywhere.label\" -> \"Überall suchen\"\n147 = {HashMap$HashMapEntry@4197} \"apply.start.title\" -> \"Bewerben\"\n148 = {HashMap$HashMapEntry@4198} \"forgotpassword.title\" -> \"Passwort vergessen\"\n149 = {HashMap$HashMapEntry@4199} \"onboarding.embed.careerLevel.title\" -> \"Karrierestufe\"\n150 = {HashMap$HashMapEntry@4200} \"job.applied.empty.button\" -> \"Jobs entdecken\"\n151 = {HashMap$HashMapEntry@4201} \"profile.languages.empty.text\" -> \"Sie haben noch keine Sprachen angegeben.\"\n152 = {HashMap$HashMapEntry@4202} \"profile.edit.save\" -> \"Speichern\"\n153 = {HashMap$HashMapEntry@4203} \"apply.preview.confirm.cancel\" -> \"Nein, zurück\"\n154 = {HashMap$HashMapEntry@4204} \"register.password1\" -> \"Passwort wählen\"\n155 = {HashMap$HashMapEntry@4205} \"job.offline.error.message\" -> \"Im Offline-Modus steht diese Funktion leider nicht zur Verfügung.\"\n156 = {HashMap$HashMapEntry@4206} \"register.error.title\" -> \"Fehler\"\n157 = {HashMap$HashMapEntry@4207} \"profile.skills.empty.button\" -> \"Qualifikationen hinzufügen\"\n158 = {HashMap$HashMapEntry@4208} \"login.forgotpassword\" -> \"Passwort vergessen?\"\n159 = {HashMap$HashMapEntry@4209} \"login.title\" -> \"Einloggen\"\n160 = {HashMap$HashMapEntry@4210} \"import.warning.text\" -> \"Beim Import werden alle bisherigen Profileingaben überschrieben.\"\n161 = {HashMap$HashMapEntry@4211} \"general.error.title\" -> \"Fehler\"\n162 = {HashMap$HashMapEntry@4212} \"menu.applied\" -> \"BEWERBUNGEN\"\n163 = {HashMap$HashMapEntry@4213} \"start.title.slogan\" -> \"Nutzen Sie unseren JobFinder und finden Sie Ihren Traumjob in der Otto Group!\"\n164 = {HashMap$HashMapEntry@4214} \"general.error.appversion\" -> \"Eine neue Version des Jobfinder ist verfügbar. Aktualisieren Sie jetzt, um die App weiterhin benutzen zu können.\"\n165 = {HashMap$HashMapEntry@4215} \"general.error.button\" -> \"OK\"\n166 = {HashMap$HashMapEntry@4216} \"profile.password.guideline.error.partsofemail\" -> \"Ihr Passwort darf keine Teile der angegebenen E-Mail-Adresse beinhalten.\"\n167 = {HashMap$HashMapEntry@4217} \"menu.dismissed\" -> \"ABGELEHNT\"\n168 = {HashMap$HashMapEntry@4218} \"profile.password.error.message.currentwrong\" -> \"Sie haben Ihr aktuelles Passwort falsch eingegeben.\"\n169 = {HashMap$HashMapEntry@4219} \"onboarding.welcome.text5\" -> \"Tippen Sie eine Karte an, um Details zu sehen und den Arbeitgeber zu kontaktieren\"\n170 = {HashMap$HashMapEntry@4220} \"profile.jobHistory.empty.text\" -> \"Sie haben noch keine Informationen zu Ihrer Berufserfahrung hinzufügen.\"\n171 = {HashMap$HashMapEntry@4221} \"stream.toolbar.info\" -> \"INFO\"\n172 = {HashMap$HashMapEntry@4222} \"job.saved.title\" -> \"Gespeicherte Jobs\"\n173 = {HashMap$HashMapEntry@4223} \"apply.cover.title\" -> \"Anschreiben\"\n174 = {HashMap$HashMapEntry@4224} \"onboarding.welcome.text2\" -> \"Jobs, die zu Ihrem Profil passen, werden Ihnen als Kartenstapel angezeigt\"\n175 = {HashMap$HashMapEntry@4225} \"register.error.okay\" -> \"OK\"\n176 = {HashMap$HashMapEntry@4226} \"job.list.deletebuttontitle\" -> \"Ablehnen\"\n177 = {HashMap$HashMapEntry@4227} \"apply.start.description\" -> \"Wählen Sie die Informationen, die Sie zusätzlich zu Ihrem Namen und Ihrer E-Mail-Adresse mit in Ihre Bewerbung aufnehmen möchten. (Pflichtfelder können nicht deaktiviert werden)\"\n178 = {HashMap$HashMapEntry@4228} \"forgotpassword.success.title\" -> \"Erfolg\"\n179 = {HashMap$HashMapEntry@4229} \"profile.logout.confirmation.okay\" -> \"Ja, ausloggen\"\n180 = {HashMap$HashMapEntry@4230} \"stream.search.edit\" -> \"Ändern\"\n181 = {HashMap$HashMapEntry@4231} \"profile.emailverification.button\" -> \"E-Mail erneut senden\"\n182 = {HashMap$HashMapEntry@4232} \"forgotpassword.success.message\" -> \"Eine Anleitung, wie Sie Ihr Passwort zurücksetzen können, wurde an die angegebene E-Mail-Adresse geschickt.\"\n183 = {HashMap$HashMapEntry@4233} \"job.single.contact\" -> \"Kontakt\"\n184 = {HashMap$HashMapEntry@4234} \"stream.title\" -> \"Jobs entdecken\"\n185 = {HashMap$HashMapEntry@4235} \"account.email.title\" -> \"E-Mail-Adresse ändern\"\n186 = {HashMap$HashMapEntry@4236} \"stream.empty.text1\" -> \"Wir benachrichtigen Sie gerne, sobald wir etwas Neues gefunden haben\"\n187 = {HashMap$HashMapEntry@4237} \"stream.empty.text2\" -> \"Nutzen Sie auch die Schlagwortsuche, um andere Jobangebote in der Otto Group zu finden oder passen Sie Ihre Sucheinstellungen an.\"\n188 = {HashMap$HashMapEntry@4238} \"profile.delete.confirmation.title\" -> \"Sind Sie sicher?\"\n189 = {HashMap$HashMapEntry@4239} \"register.footer\" -> \"Ihr Passwort muss mindestens eine Ziffer, einen Buchstaben und ein Sonderzeichen enthalten und mindestens 8 Zeichen lang sein.\"\n190 = {HashMap$HashMapEntry@4240} \"job.list.deletebuttontitle.dismissed\" -> \"Löschen\"\n191 = {HashMap$HashMapEntry@4241} \"profile.fileupload.choose.delete\" -> \"Löschen\"\n192 = {HashMap$HashMapEntry@4242} \"job.applied.title\" -> \"Bewerbungen\"\n193 = {HashMap$HashMapEntry@4243} \"onboarding.import.linkedin.success.title\" -> \"Erfolg\"\n194 = {HashMap$HashMapEntry@4244} \"stream.empty.button1\" -> \"Mitteilungseinstellungen\"\n195 = {HashMap$HashMapEntry@4245} \"profile.avatar.edit\" -> \"ändern\"\n196 = {HashMap$HashMapEntry@4246} \"account.password.current\" -> \"Aktuelles Passwort\"\n197 = {HashMap$HashMapEntry@4247} \"profile.education.empty.button\" -> \"Ausbildung hinzufügen\"\n198 = {HashMap$HashMapEntry@4248} \"job.share.email\" -> \"Ich habe gerade ein Stellenangebot gefunden, das zu Dir passen könnte:\"\n199 = {HashMap$HashMapEntry@4249} \"job.share.message\" -> \"Ich habe gerade ein Stellenangebot gefunden, das zu Dir passen könnte:\"\n200 = {HashMap$HashMapEntry@4451} \"onboarding.push.preview.title\" -> \"Otto Group Jobfinder\"\n201 = {HashMap$HashMapEntry@4452} \"import.warning.title\" -> \"Warnung\"\n202 = {HashMap$HashMapEntry@4453} \"onboarding.push.preview.text\" -> \"Es sind neue Jobvorschläge für Sie verfügbar!\"\n203 = {HashMap$HashMapEntry@4454} \"notificationSettings.push\" -> \"Push-Nachrichten\"\n204 = {HashMap$HashMapEntry@4455} \"apply.finished.button.jobs\" -> \"Weitere Stellen entdecken\"\n205 = {HashMap$HashMapEntry@4456} \"job.offline.error.title\" -> \"Keine Internetverbindung\"\n206 = {HashMap$HashMapEntry@4457} \"apply.preview.confirm.title\" -> \"Möchten Sie Ihre Bewerbung jetzt senden?\"\n207 = {HashMap$HashMapEntry@4458} \"login.next.button\" -> \"Einloggen\"\n208 = {HashMap$HashMapEntry@4459} \"profile.fileupload.choose.title\" -> \"Datei hinzufügen\"\n209 = {HashMap$HashMapEntry@4460} \"apply.cover.description\" -> \"Wenn Sie möchten, können Sie hier Ihr Anschreiben personalisieren\"\n210 = {HashMap$HashMapEntry@4461} \"profile.delete.item\" -> \"Löschen\"\n211 = {HashMap$HashMapEntry@4462} \"profile.delete.done.message\" -> \"Ihr Account und alle Daten darin wurden gelöscht\"\n212 = {HashMap$HashMapEntry@4463} \"apply.start.next\" -> \"Anschreiben\"\n213 = {HashMap$HashMapEntry@4464} \"account.password.title\" -> \"Passwort ändern\"\n214 = {HashMap$HashMapEntry@4465} \"onboarding.finished.text6\" -> \"Wir haben bereits einige Stellenangebote gefunden, die attraktiv für Sie sein könnten. Finden Sie es heraus!\"\n215 = {HashMap$HashMapEntry@4466} \"profile.verification.resend.message\" -> \"Die E-Mail zur Bestätigung wurde erneut abgesendet.\"\n216 = {HashMap$HashMapEntry@4467} \"jobs.time.now\" -> \"heute\"\n217 = {HashMap$HashMapEntry@4468} \"onboarding.import.xing.error.button\" -> \"OK\"\n218 = {HashMap$HashMapEntry@4469} \"general.navigation.back\" -> \"Zurück\"\n219 = {HashMap$HashMapEntry@4470} \"onboarding.embed.careerLevel.description\" -> \"Wählen Sie die Karrierestufen aus, die für Sie interessant sind.\"\n220 = {HashMap$HashMapEntry@4471} \"profile.password.error.title\" -> \"Fehler\"\n221 = {HashMap$HashMapEntry@4472} \"profile.education.empty.text\" -> \"Sie haben noch keine Informationen zu Ihrer Ausbildung hinzugefügt.\"\n222 = {HashMap$HashMapEntry@4473} \"onboarding.push.text\" -> \"Mit unseren Push-Mitteilungen erfahren Sie sofort, wenn es neue Stellenangebote gibt, die zu Ihrem Profil passen.\\n\\nOb und in welcher Frequenz Sie Push-Mitteilungen erhalten möchten, können Sie jederzeit in den Einstellungen ändern.\"\n223 = {HashMap$HashMapEntry@4474} \"profile.password.guideline.error.missingspecial\" -> \"Bitte wählen Sie ein Passwort, das mindestens ein Sonderzeichen enthält.\"\n224 = {HashMap$HashMapEntry@4475} \"onboarding.import.title\" -> \"Profilinfo importieren\"\n225 = {HashMap$HashMapEntry@4476} \"apply.preview.confirm.okay\" -> \"Ja, senden\"\n226 = {HashMap$HashMapEntry@4477} \"onboarding.import.text\" -> \"Sie haben die Möglichkeit, Daten aus Ihrem XING oder LinkedIn Account als Grundlage für Ihr Profil zu übernehmen.\\n\\nDas spart Zeit, da Sie Ihre Daten nicht noch einmal eintippen müssen. Anhand Ihrer Daten werden wir Stellenangebote heraussuchen, die auf Ihr Profil zugeschnitten sind. Sie haben zusätzlich die Möglichkeit, Daten aus Ihrem App-Profil in die Bewerbung einzufügen.\\n\\nWir geben ausschließlich die Informationen weiter, die Sie explizit in Ihre Bewerbung aufnehmen möchten.\"\n227 = {HashMap$HashMapEntry@4478} \"profile.title\" -> \"Profil\"\n228 = {HashMap$HashMapEntry@4479} \"profile.import.text\" -> \"Sie haben die Möglichkeit, Daten aus Ihrem XING oder LinkedIn Account als Grundlage für dieses Profil zu übernehmen.\\n\\nDas spart Ihnen Zeit, da Sie Ihre Daten nicht noch einmal eintippen müssen. Sie haben zusätzlich die Möglichkeit, Daten aus Ihrem App-Profil in die Bewerbung einzufügen.\\n\\nWir geben ausschließlich die Informationen weiter, die Sie explizit in Ihre Bewerbung mitaufnehmen möchten.\"\n229 = {HashMap$HashMapEntry@4480} \"apply.coverletter.draft\" -> \"Sehr geehrte(r) %s,\\nanbei finden Sie meine Bewerbung auf die Stelle »%s«.\\n\\nViele Grüße\\n%s\"\n230 = {HashMap$HashMapEntry@4481} \"register.password2\" -> \"Passwort wiederholen\"\n231 = {HashMap$HashMapEntry@4482} \"job.applied.empty.text\" -> \"Sobald Sie sich für einen Job beworben haben, wird dieser hier auftauchen.\"\n232 = {HashMap$HashMapEntry@4483} \"password\" -> \"Passwort ändern\"\n233 = {HashMap$HashMapEntry@4484} \"profile.documents.empty.button\" -> \"Dokument hinzufügen\"\n234 = {HashMap$HashMapEntry@4485} \"apply.cover.next\" -> \"Vorschau\"\n235 = {HashMap$HashMapEntry@4486} \"login.error.title\" -> \"Fehler\"\n236 = {HashMap$HashMapEntry@4487} \"stream.empty.title\" -> \"Aktuell können wir zu Ihren Sucheinstellungen leider keine passenden Jobs finden.\"\n237 = {HashMap$HashMapEntry@4488} \"profile.fileupload.choose.camera\" -> \"Foto aufnehmen\"\n238 = {HashMap$HashMapEntry@4489} \"register.error.message.tos\" -> \"Bitte akzeptieren Sie die Nutzungsbedingungen.\"\n239 = {HashMap$HashMapEntry@4490} \"job.detail.expired\" -> \"Dieser Job ist abgelaufen, Interaktion ist nicht mehr möglich.\"\n240 = {HashMap$HashMapEntry@4491} \"onboarding.embed.location.title\" -> \"Arbeitsort\"",
+					"settings":
+					{
+						"buffer_size": 25870,
+						"line_ending": "Unix",
+						"name": "0 = {HashMap$HashMapEntry@3848} \"profile.fileuploa"
+					}
+				},
+				{
+					"contents": "Our Way Pt.1 - Django\n\n \n\nIntro\n\nVerzeiht mir die Arroganz, die dieser Titel suggeriert, allerdings finde ich diesen so passend wie kaum einen anderen. Im Laufe dieser Serie werden wir euch  vor allem Technologien näher bringen, die uns dabei unterstützen die exklusiven Wünsche unserer Kunden erfüllen zu können. \n\nNicht selten sieht man sich mit der Frage konfrontiert, warum man gewisse Technologien und Methodiken anwendet, um ans Ziel zu kommen.\n\nDiese Blogreihe dient dazu euch unseren Weg (our way) näherzubringen, warum wir auf welche Technologien bauen und warum wir fest davon überzeugt sind, dass eben diese sowohl unser Leben als auch das unserer Kunden leichter machen.\n\n \n\nDjango\n\n \n\nFakten\n\nEinsatzgebiet: Backendentwicklung\n\nKlassische Use-Cases: CMS, eCommerce, Backend zur Datenerhaltung und zur Kommunikation mit Clients\n\nSpitzname: Das “Hirn” eines jeden Systems\n\nProgrammiersprache: Python\n\n \n\nProblemstellung\n\nViele Kunden kommen mit dem Problem auf uns zu, dass sie gerne einen neuen Webauftritt hätten, in dem sie auch ihre Produkte bewerben oder teilweise sogar verkaufen möchten. \n\nSchnell sind die Anforderungen klar:\n\n    Eine hübsche Website zur Produktpräsentation\n    Eine Administrationsoberfläche, über die der Inhalt der Website erstellt und geändert werden kann\n\nIn diesem Fall sprechen wir von einem klassischen Content Management System (CMS). \n\n \n\nProblemlösung (Ansatz)\n\nDie meisten haben zur Lösung dieses Problems (und das zu Recht) Wordpress, Typo3 oder Joomla im Kopf. In wenigen Stunden ist man in diese Frameworks eingelesen, kann sein CMS zusammenstellen und es wird sogar noch automatisch gehostet.\n\nFür ein einfaches CMS (oder auch eCommerce Shops) ist dies ein probates Mittel, um schnell und kostengünstig an das Ziel zu kommen.\n\n \n\nKomplizierter wird das ganze, wenn Sonderwünsche hinzukommen. Ein Beispiel wäre hierfür ein Produktkatalog. Für jedes Produkt soll es möglich sein Dateien hochzuladen. Diese Dateien sollen allerdings nicht nur an das entsprechende Produkt angehängt sein, sondern sollen auch automatisiert in einen eigenen Download-Bereich wandern und dort zum Download zur Verfügung stehen.\n\nHier kommt Logik ins Spiel, was bedeutet, dass es nicht mehr ausreicht einfache Produkte anlegen und konfigurieren zu können, sondern im Hintergrund Algorithmen anzuwerfen, die so schlau sind, beim Anlegen des Produkts automatisch eine entsprechende Download-Sektion auf der Site anzulegen.\n\nZweifelsfrei würde sich dieses Unterfangen über Typo3 implementieren lassen. Hierfür hat man 2 Möglichkeiten: Entweder man hat das Glück ein solches Plugin erwerben zu können, oder man muss es selbst entwickeln.\n\nAllerdings haben diese Plugins auch ihre Nachteile:\n\n    Ein Einarbeiten in die Schnittstellen der CMS kann durchaus mühsam sein, da die Dokumentation oftmals veraltet oder teilweise gar nicht existent ist.\n    Plugins, die es zu kaufen gibt sind von mehr oder weniger guter Qualität, was oft zu Problemen in den Punkten Sicherheit, Zuverlässigkeit und Performance führt.\n    Manche Plugins werden nicht mehr weiterentwickelt. Nach einem CMS Update sind diese Plugins teilweise nicht mehr nutzbar und die Suche beginnt von Neuem.\n\n \n\nWenn ihr mir an dieser Stelle ein persönliches Wort erlaubt: Solche Systeme werden nach dem Motto “one fits all” konzipiert, was heißen soll, dass es 1 System gibt, welches für ALLE Kundenwünsche anwendbar ist. Mit Verlaub, ich glaube nicht, dass es so ein System jemals geben kann.\n\n \n\nOur way\n\nWir haben uns für den 3. Weg entschieden, nämlich Django. Django ist ein Python-Webframework. Mit der Hilfe von Webframeworks (Ruby on Rails und Java Spring sind weitere prominente Beispiele) sind hohe Programmierkosten für grundlegende Funktionen nicht mehr vertreten. Hier setzt nämlich ein Webframework an, was einfach gesagt nichts weiter ist, als eine Reihe von Hilfsmitteln, die bei ermüdenden, immer wiederkehrenden Arbeiten hilft.\n\nEs stellt Verbindungen zur Datenbank her, verschickt E-Mails, speichert und lädt Datensätze in/aus der Datenbank oder kontrolliert das Caching der Webseiten.\n\nÜbrigens Seiten wie Bitbucket und Pinterest wurden ebenfalls mit Django erstellt.\n\n \n\nWorkflow mit Django\n\nZur Entwicklung einer Webiste steht zuerst die Datenhaltung und -verarbeitung im Vordergrund. Es wird überlegt, welche Daten angezeigt und gespeichert werden sollen, und wie sie miteinander verknüpft sind.\n\nModels\n\nMit Hilfe des integrierten Object-Relational mappers (ORM) kann man mit wenigen Zeilen Code die Datenbankstruktur anlegen - beispielsweise für einen Produktkatalog. Django bietet bereits im Vorfeld eine große Auswahl an Datentypen (z.B: Email-Felder, Dateiuploads, Postleitzahlen usw.), die automatisch auf die Benutzer-Eingabe validiert werden.\n\nDas folgende Beispiel zeigt den Code für eine Produkttabelle:\n\nclass Product(models.Model):\n    title = models.CharField(max_length=200, blank=False, verbose_name='Name')\n    image = models.ImageField(upload_to='images', blank=True, null=True, verbose_name=\"Bild\")\n    description = HTMLField(verbose_name=\"Beschreibung\")\n    is_active = models.BooleanField(default=True, verbose_name='aktiv')\n\n\n\nAdmin-Oberfläche\n\nDurch einen weiteren Befehl wird das Administrations-Interface für das erstellte Modell aktiviert. Somit kann der Seiten-Administrator damit beginnen, bequem die Daten in die Datenbank einzuspielen, ohne Kenntnisse über die darunterliegende Datenbankstruktur zu haben. In anderen Webframeworks, muss eine Dateneingabemaske erst programmiert werden. Django bringt diese gratis mit und bietet weitere Convenence-Funktionen, wie Tabllensortierungen, Suchfelder u.ä.\n\nURLs\n\nMit Hilfe von selbst definierten URLs kann das Verhalten des Backends gesteuert werden. Die Namensgebung der URLs kann frei vergeben werden. Im folgenden sind 2 URLs definiert. products/ und products/(?P<slug>[\\w\\-]+). Bei dem Gebilde (?P<slug>[\\w\\-]+) handelt es is um eine Regular Expression, die einen Platzhalter für eine ID darstellen soll z.B products/Produkt-1\n\nurlpatterns = [\n    url(r'^products/$', views.products, name='products'),\n    url(r'^products/(?P<slug>[\\w\\-]+)/$', views.product_details, name='product_details'),\n\n]\n\nDas Ganze Konstrukt mag noch nicht viel Sinn ergeben, allerdings wird dies wahrscheinlich im nächsten Punkt klarer. Wichtig ist, dass hier die URL auf eine bestimmte \"View\" verweist.\n\nViews\n\nDurch den Aufruf einer URL (s. oben) wird auf eine View verwiesen. Die View hat unter anderem die Aufgabe Daten aus der Datenbank zu holen und diese in einem Template darzustellen. Im oberen URLs Beispiel sehen wir die URL products/, die auf die View \"products\" verweist. Beim Aufrufen der Url www.example.com/products wird die View \"products\" geladen. Diese hat die Aufgabe alle Produkte aus der Datenbank zu holen, diese an ein Produkt-Template zu übergeben und das Produkt-Template zu laden.\nIm folgenden findet ihr ein einfaches Beispiel dafür, dieses holt alle aktiven Produkte aus der Datenbank, lädt das Template \"products.html\" und übergibt über ein Context-Dictionary (Container) die Produkte an das Template, welches dann im Browser angezeigt wird:\n\ndef products(request):\n    products = Product.objects.filter(is_active=True)\n    template = loader.get_template('products.html')\n    context_dict = {'products': products}\n    context = RequestContext(request, context_dict)\n    return HttpResponse(template.render(context)) \n\n\nTemplates\n\nDynamische Daten, wie in unserem Beispiel alle Produkte, werden durch den Context in das Template eingespielt. Im Template selbst ist es nicht möglich, Python Code oder SQL-Abfragen zu implementieren. So bleibt der HTML-Code tatsächlich verständlich und wird nicht wie bei PHP oder Wordpress Templates wirr verschachtelt. \n\nEin simples Template für das Product-Template könnte in etwa so aussehen:\n\n{% block content %}\n    {% for product in products %}\n         <p>{{ product.title }}</p>\n         <p>Description: {{ product.description }}</p>\n         <p>Image: {{ product.image.url }}</p>\n    {% endfor %}\n{% endblock %}\n\nApplikationen\n\nEine Besonderheit von Django ist, dass das eigene Projekt aus einzelnen Applikationen (Apps) besteht. Apps können in das jeweilige Projekt geladen und genutzt werden. Ein klassisches CMS würde beispielsweise aus folgenden Applikationen bestehen:\n\nProduktkatalog\nRegistrierung/Login\nFotogalliere\nKontaktformular \nStatische Seiten\nAdministrationsbereich\n\nJa, auch der oben beschriebene Administrationsbereich stellt eine eigene Applikation dar. Ein großer Vorteil von Django ist die große Community. Benötigte Apps wurden meist schon einmal implementiert und werden meistens als Open-Source über Github anderen Entwicklern zur Verfügung gestellt. \nWir verfolgen einen ähnlichen Ansatz: Zum einen sind wir stets bemüht, das Rad nicht nochmal neu erfinden zu müssen. Daher versuchen wir stets Apps zu kapseln, um diese für andere Projekte wiederverwenden zu können. Beispielsweise wird der Produktkatalog immer weiterentwickelt und für mehrere Projekte eingesetzt - 1 Codeprojekt, das in vielen Systemen eingesetzt wird.\nDies hat außerdem den Vorteil, dass die Applikation mit jeder neuen Kundenanforderung automatisch weiterentwickelt wird und mit (fast) jedem Projekt immer umfangreicher und mächtiger wird, was auch Bestandskunden zu Gute kommt.\n\nFazit\nFür anspruchsvolle Kunden mit hohen Erwartungen und extravaganten Anforderungen ist Django definitiv zu empfehlen. Großteils ist es nicht einmal notwendig, grundlegende Dinge selbst zu programmieren, sondern sich an den tausenden bereits bestehenden Applikationen und Bibliotheken zu bedienen. \nDurch die einfache Template-Syntax gelingt uns intern auch eine saubere Trennung zwischen Frontend- und Backendentwicklung. Dadurch wird kein Entwickler von einem anderen Entwickler blockiert, weil ein Code-Snippet oder eine Schnittstelle noch nicht zur Verfügung steht.\nFür uns als Agentur hat Django den großen Vorteil, dass unsere Applikationen über die Zeit wachsen und auch immer beständiger werden. Je mehr Kunden wir mit Django bedienen, umso mehr wächst unsere eigene Datenbank von Django-Applikationen an, die wir Kunden anbieten dürfen.\nEine Win-Win Situation sozusagen ;-)",
+					"settings":
+					{
+						"buffer_size": 10191,
+						"line_ending": "Unix",
+						"name": "Our Way Pt.1 - Django"
+					}
+				},
+				{
+					"file": "/home/stefan/code/thinkster-django-angular-boilerplate/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 377,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "    <!-- CONTENT AREA -->\n    <div class=\"content-area\">\n\n        <!-- BREADCRUMBS -->\n        <section class=\"page-section breadcrumbs\">\n            <div class=\"container\">\n                <div class=\"page-header\">\n                    <h1>Impressum</h1>\n                </div>\n            </div>\n        </section>\n        <!-- /BREADCRUMBS -->\n<!-- PAGE -->\n        <section class=\"page-section\">\n            <div class=\"container\">\n               \n                <hr class=\"page-divider half\"/>\n                <div class=\"row\">\n                    <div class=\"col-md-3\">\n                        <p>\n\nTGV Technische Geräte Vertrieb GmbH.<br><br>\nNeubauzeile 57<br>\nA-4030 Linz<br><br>\n<a href=\"tel:+43732372186\"><span>TEL: (+43) 0732 / 37 21 86</span></a><br>\n<a href=\"fax:+43732372187\"><span>FAX: (+43) 0732 / 37 21 87</span></a><br><br>\n\n\nE-mail:<br>\n<a href=\"mailto:tgv-linz@tgv.at\"><span>tgv-linz@tgv.at</span></a><br><br>\n\nFirmenbuchnummer: FN 81455M<br>\nUID: ATU 22924209<br><br>\n\nGerichtsstand: Landes- als Handelsgericht Linz </p>\n                    </div>\n                    <div class=\"col-md-9\">\n                        <div class=\"panel-group accordion\" id=\"faq-accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\" role=\"tab\" id=\"faq-heading1\">\n                                    <h4 class=\"panel-title\">\n                                        <a data-toggle=\"collapse\" data-parent=\"#faq-accordion\" href=\"#faq-collapse1\" aria-expanded=\"true\" aria-controls=\"collapse1\">\n                                            <span class=\"dot\"></span> HAFFTUNGSAUSSCHLUSS & DISCLAIMER\n                                        </a>\n                                    </h4>\n                                </div>\n                                <div id=\"faq-collapse1\" class=\"panel-collapse collapse in\" role=\"tabpanel\" aria-labelledby=\"faq-heading1\">\n                                    <div class=\"panel-body\">\n                                        Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<br><br>\n\n<b>Haftung für Links</b><br>\n\nUnser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.<br><br>\n\n<b>Urheberrecht</b><br>\n\nDie durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.\n                                    </div>\n                                </div>\n                            </div>\n                            <!---->\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\" role=\"tab\" id=\"faq-heading2\">\n                                    <h4 class=\"panel-title\">\n                                        <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#faq-accordion\" href=\"#faq-collapse2\" aria-expanded=\"false\" aria-controls=\"collapse2\">\n                                            <span class=\"dot\"></span> DATENSCHUTZERKLÄRUNG\n                                        </a>\n                                    </h4>\n                                </div>\n                                <div id=\"faq-collapse2\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"faq-heading2\">\n                                    <div class=\"panel-body\">\n                                        Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.<br><br>\n\n<b>Datenschutzerklärung für die Nutzung von Facebook-Plugins (Like-Button)</b><br>\nAuf unseren Seiten sind Plugins des sozialen Netzwerks Facebook (Facebook Inc., 1601 Willow Road, Menlo Park, California, 94025, USA) integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem „Like-Button“ („Gefällt mir“) auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier: http://developers.facebook.com/docs/plugins/.\nWenn Sie unsere Seiten besuchen, wird über das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse unsere Seite besucht haben. Wenn Sie den Facebook „Like-Button“ anklicken während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von facebook unter http://de-de.facebook.com/policy.php\nWenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus.<br><br>\n\n<b>Datenschutzerklärung für die Nutzung von Google Analytics</b><br>\nDiese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt.\nNur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.\nSie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de.<br><br>\n\n<b>Datenschutzerklärung für die Nutzung von Google Adsense</b><br>\nDiese Website benutzt Google AdSense, einen Dienst zum Einbinden von Werbeanzeigen der Google Inc. („Google“). Google AdSense verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website ermöglicht. Google AdSense verwendet auch so genannte Web Beacons (unsichtbare Grafiken). Durch diese Web Beacons können Informationen wie der Besucherverkehr auf diesen Seiten ausgewertet werden.\nDie durch Cookies und Web Beacons erzeugten Informationen über die Benutzung dieser Website (einschließlich Ihrer IP-Adresse) und Auslieferung von Werbeformaten werden an einen Server von Google in den USA übertragen und dort gespeichert. Diese Informationen können von Google an Vertragspartner von Google weiter gegeben werden. Google wird Ihre IP-Adresse jedoch nicht mit anderen von Ihnen gespeicherten Daten zusammenführen.\nSie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.<br><br>\n\n<b>Datenschutzerklärung für die Nutzung von Google +1</b><br>\nErfassung und Weitergabe von Informationen:\nMithilfe der Google +1-Schaltfläche können Sie Informationen weltweit veröffentlichen. Über die Google +1-Schaltfläche erhalten Sie und andere Nutzer personalisierte Inhalte von Google und unseren Partnern. Google speichert sowohl die Information, dass Sie für einen Inhalt +1 gegeben haben, als auch Informationen über die Seite, die Sie beim Klicken auf +1 angesehen haben. Ihre +1 können als Hinweise zusammen mit Ihrem Profilnamen und Ihrem Foto in Google-Diensten, wie etwa in Suchergebnissen oder in Ihrem Google-Profil, oder an anderen Stellen auf Websites und Anzeigen im Internet eingeblendet werden.\nGoogle zeichnet Informationen über Ihre +1-Aktivitäten auf, um die Google-Dienste für Sie und andere zu verbessern. Um die Google +1-Schaltfläche verwenden zu können, benötigen Sie ein weltweit sichtbares, öffentliches Google-Profil, das zumindest den für das Profil gewählten Namen enthalten muss. Dieser Name wird in allen Google-Diensten verwendet. In manchen Fällen kann dieser Name auch einen anderen Namen ersetzen, den Sie beim Teilen von Inhalten über Ihr Google-Konto verwendet haben. Die Identität Ihres Google-Profils kann Nutzern angezeigt werden, die Ihre E-Mail-Adresse kennen oder über andere identifizierende Informationen von Ihnen verfügen.<br><br>\n\n<b>Verwendung der erfassten Informationen:</b><br>\nNeben den oben erläuterten Verwendungszwecken werden die von Ihnen bereitgestellten Informationen gemäß den geltenden Google-Datenschutzbestimmungen genutzt. Google veröffentlicht möglicherweise zusammengefasste Statistiken über die +1-Aktivitäten der Nutzer bzw. gibt diese an Nutzer und Partner weiter, wie etwa Publisher, Inserenten oder verbundene Websites.<br><br>\n\n<b>Datenschutzerklärung für die Nutzung von Twitter</b><br>\nAuf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., Twitter, Inc. 1355 Market St, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der Funktion „Re-Tweet“ werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen.\nWir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter http://twitter.com/privacy.\nIhre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter http://twitter.com/account/settings ändern.<br><br>\n\n<b>Auskunft, Löschung, Sperrung</b><br>\nSie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum angegeben Adresse des Webseitenbetreibers an uns wenden.\n                                    </div>\n                                </div>\n                            </div>\n                            \n                        </div>\n                    </div>\n                    \n                </div>\n            </div>\n        </section>\n        <!-- /PAGE -->\n\n\n    </div>\n    <!-- /CONTENT AREA -->\n",
+					"file": "/home/stefan/Downloads/TGV/impressum.html",
+					"file_size": 25826,
+					"file_write_time": 1442194618000000,
+					"settings":
+					{
+						"buffer_size": 14555,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/stefan/Downloads/TGV/downloads.html",
+					"settings":
+					{
+						"buffer_size": 12563,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Email",
+					"register",
+					"language",
+					"Passwort",
+					"langu",
+					"slider",
+					"slider 2",
+					"slider2",
+					"slider1",
+					"slider 1",
+					"slider"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/stefan/Downloads/TGV/assets/css/theme.css",
+							"settings":
+							{
+								"buffer_size": 155404,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										155404,
+										155404
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/stefan/Downloads/TGV/assets/js/theme.js",
+							"settings":
+							{
+								"buffer_size": 17989,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17989,
+										17989
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/stefan/Downloads/TGV/index.html",
+							"settings":
+							{
+								"buffer_size": 79463,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6622,
+										6622
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2070.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/stefan/tmp.txt",
+							"settings":
+							{
+								"buffer_size": 19623,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2801,
+										2801
+									]
+								],
+								"settings":
+								{
+									"auto_name": "<div class=\"col-md-9 content\" id=\"content\">",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 375.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"settings":
+							{
+								"buffer_size": 25870,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11807,
+										11812
+									]
+								],
+								"settings":
+								{
+									"auto_name": "0 = {HashMap$HashMapEntry@3848} \"profile.fileuploa",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2292.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"settings":
+							{
+								"buffer_size": 10191,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10191,
+										10191
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Our Way Pt.1 - Django",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2945.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/stefan/code/thinkster-django-angular-boilerplate/templates/index.html",
+							"settings":
+							{
+								"buffer_size": 377,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										206,
+										206
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/stefan/Downloads/TGV/impressum.html",
+							"settings":
+							{
+								"buffer_size": 14555,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14555,
+										14555
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/stefan/Downloads/TGV/downloads.html",
+							"settings":
+							{
+								"buffer_size": 12563,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11954,
+										11954
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<session>
+	 <window x="1280" y="0" width="640" height="1059" active-tab="2" role="epiphany-window-67e37329">
+	 	 <embed url="about:overview" title="Meistbesucht"/>
+	 	 <embed url="https://docs.google.com/spreadsheets/d/1XeQhDUkwvv0gcu8TLYwcePYPi3AngdXqZ2qW64Lid4s/edit?pli=1" title="docs.google.com" loading="true"/>
+	 	 <embed url="https://maps.googleapis.com/maps/api/place/autocomplete/json?&amp;types;=(regions)&amp;key=AIzaSyC-y64Ur56Pvp0Gw9Ra7eaJ83nxViDXOsk&amp;input=4020" title="maps.googleapis.com"/>
+	 </window>
+</session>

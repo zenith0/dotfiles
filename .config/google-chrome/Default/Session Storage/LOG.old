@@ -1,0 +1,16 @@
+2015/11/04-18:29:25.058 2655 Reusing MANIFEST /home/stefan/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2015/11/04-18:29:25.058 2655 Recovering log #36
+2015/11/04-18:29:25.063 2655 Reusing old log /home/stefan/.config/google-chrome/Default/Session Storage/000036.log 
+2015/11/04-18:40:03.896 3298 Level-0 table #40: started
+2015/11/04-18:40:04.035 3298 Level-0 table #40: 1428976 bytes OK
+2015/11/04-18:40:04.087 3298 Delete type=0 #36
+2015/11/04-18:54:25.138 3298 Compacting 3@0 + 1@1 files
+2015/11/04-18:54:25.344 3298 Generated table #41: 1654 keys, 2101530 bytes
+2015/11/04-18:54:25.511 3298 Generated table #42: 532 keys, 2100520 bytes
+2015/11/04-18:54:25.665 3298 Generated table #43: 1373 keys, 1544091 bytes
+2015/11/04-18:54:25.665 3298 Compacted 3@0 + 1@1 files => 5746141 bytes
+2015/11/04-18:54:25.728 3298 compacted to: files[ 0 3 1 0 0 0 0 ]
+2015/11/04-18:54:25.729 3298 Delete type=2 #40
+2015/11/04-18:54:25.729 3298 Delete type=2 #37
+2015/11/04-18:54:25.730 3298 Delete type=2 #32
+2015/11/04-18:54:25.730 3298 Delete type=2 #34

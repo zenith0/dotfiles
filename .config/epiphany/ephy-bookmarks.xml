@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ephy_bookmarks version="1.03">
+  <!--Do not rely on this file, it's only for internal use. Use bookmarks.rdf instead.-->
+  <node id="30">
+    <property id="5" value_type="gchararray">Unterhaltung</property>
+    <property id="8" value_type="gint">2</property>
+    <parent id="1"/>
+  </node>
+  <node id="31">
+    <property id="5" value_type="gchararray">News</property>
+    <property id="8" value_type="gint">2</property>
+    <parent id="1"/>
+  </node>
+  <node id="32">
+    <property id="5" value_type="gchararray">Einkaufen</property>
+    <property id="8" value_type="gint">2</property>
+    <parent id="1"/>
+  </node>
+  <node id="33">
+    <property id="5" value_type="gchararray">Sport</property>
+    <property id="8" value_type="gint">2</property>
+    <parent id="1"/>
+  </node>
+  <node id="34">
+    <property id="5" value_type="gchararray">Reise</property>
+    <property id="8" value_type="gint">2</property>
+    <parent id="1"/>
+  </node>
+  <node id="35">
+    <property id="5" value_type="gchararray">Arbeit</property>
+    <property id="8" value_type="gint">2</property>
+    <parent id="1"/>
+  </node>
+  <node id="36">
+    <property id="2" value_type="gchararray">Im Internet suchen</property>
+    <property id="3" value_type="gchararray">https://duckduckgo.com/?q=%s&amp;t=epiphany</property>
+    <property id="4" value_type="gchararray"> im internet suchen</property>
+    <parent id="0"/>
+    <parent id="10"/>
+    <parent id="3"/>
+  </node>
+</ephy_bookmarks>

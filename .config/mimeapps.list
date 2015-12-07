@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-185V3X.desktop
+message/rfc822=userapp-Thunderbird-185V3X.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-185V3X.desktop;
+message/rfc822=userapp-Thunderbird-185V3X.desktop;
+text/html=sublime-text.desktop;google-chrome.desktop;
